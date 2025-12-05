@@ -58,19 +58,10 @@ itmux is tested successfully with various workflows. You should test and verify 
 
 ## Links
 
-- **itmux homepage**: https://itefix.net/itmux
-- **itmux repository**: https://github.com/itefixnet/itmux
-- **itmux releases**: https://itefix.net/itmux/releases
 - **Tmux homepage**: https://github.com/tmux/tmux/wiki
 - **Mintty homepage**: https://mintty.github.io/
 - **OpenSSH homepage**: https://www.openssh.com/
 - **Cygwin homepage**: http://www.cygwin.com/
-
-## Support
-
-Support and issue tracking are handled via GitHub Issues:
-
-https://github.com/itefixnet/itmux/issues
 
 ## License
 
