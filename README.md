@@ -1,6 +1,6 @@
 # itmux - Tmux for Windows
 
-![itmux](tmux.png)
+![itmux](/docs/tmux.png)
 
 itmux is a packaging of Tmux, Mintty, OpenSSH client and Cygwin to offer a standalone ssh-enabled terminal multiplexer for Windows systems.
 
@@ -47,7 +47,7 @@ Each release includes:
 
 For those new to tmux, check out our comprehensive starter guide:
 
-- **[itmux Starter Guide](STARTER_GUIDE.md)** - Complete beginner-friendly guide with examples and best practices
+- **[itmux Starter Guide](docs/STARTER_GUIDE.md)** - Complete beginner-friendly guide with examples and best practices
 
 Additional external resources:
 
@@ -58,6 +58,7 @@ itmux is tested successfully with various workflows. You should test and verify 
 
 ## Links
 
+- **Changelog**: https://github.com/itefixnet/changelogs/blob/main/changelogs/itmux.md
 - **Tmux homepage**: https://github.com/tmux/tmux/wiki
 - **Mintty homepage**: https://mintty.github.io/
 - **OpenSSH homepage**: https://www.openssh.com/
