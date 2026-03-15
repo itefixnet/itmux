@@ -58,7 +58,7 @@ itmux is tested successfully with various workflows. You should test and verify 
 
 ## Links
 
-- **Changelog**: https://github.com/itefixnet/changelogs/blob/main/changelogs/itmux.md
+- **Changelog**: https://changelogs.itefix.net/changelogs/itmux
 - **Tmux homepage**: https://github.com/tmux/tmux/wiki
 - **Mintty homepage**: https://mintty.github.io/
 - **OpenSSH homepage**: https://www.openssh.com/
